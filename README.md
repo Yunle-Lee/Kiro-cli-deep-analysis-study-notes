@@ -7,7 +7,7 @@
 
 ## 一、总览
 
-**kiro-cli** 是一个用 **Rust** 编写的 AI Agent 命令行工具，是 **Amazon Q Developer CLI**（前身为 CodeWhisperer CLI/Fig）的分支/定制版本。它是一个运行在终端里的智能体（AI Agent），功能与我（当前这个 AI）非常相似：能读写文件、执行命令、对话聊天、编写和调试代码。
+**kiro-cli** 是一个用 **Rust** 编写的 AI Agent 命令行工具，是 **Amazon Q Developer CLI**（前身为 CodeWhisperer CLI/Fig）的分支/定制版本。它是一个运行在终端里的智能体（AI Agent），功能与kilee-agent非常相似：能读写文件、执行命令、对话聊天、编写和调试代码。
 
 ---
 
@@ -654,7 +654,7 @@ system operations, AWS management, and development workflows."
 
 ---
 
-## 二十二、与我的完整对比（KiLee vs Kiro CLI）
+## 二十二、与kilee-agent的完整对比（KiLee vs Kiro CLI）
 
 | 维度 | KiLee（我） | Kiro CLI |
 |------|------------|----------|
